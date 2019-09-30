@@ -2,8 +2,7 @@
 
 ## Data set: https://www.kaggle.com/c/3364/download-all
 
-F
-ACIAL expression is one of the most powerful, natural and
+FACIAL expression is one of the most powerful, natural and
 universal signals for human beings to convey their emotional
 states and intentions. Numerous studies have been conducted on automatic facial expression analysis because of its
 practical importance in sociable robotics, medical treatment, driver
